@@ -5,3 +5,5 @@ A simple 1D,2D finite difference Laminar Navier Stokes code.
 3. First order, second order<br/>
 4. MUSCL, Flux limited approach<br/>
 5. Minmod, Osher, Superbee limiters<br/>
+
+This is a recently started activity the exe will be updated with new schemes once in few days. 
