@@ -9,7 +9,7 @@ A simple 1D,2D finite difference Laminar Navier Stokes code.
 This is a recently started activity the exe will be updated with new schemes once in few days.<br/>
 
 GUI Features:<br/>
->> Mesh can be created and viewed inside the same GUI<br/>
->> Click the default button to run a sample case<br/>
->> Can save your solver settings to a text file and reload again later<br/>
->> Post processing can be done in same GUI
+1. Mesh can be created and viewed inside the same GUI<br/>
+2. Click the default button to run a sample case<br/>
+3. Can save your solver settings to a text file and reload again later<br/>
+4. Post processing can be done in same GUI
