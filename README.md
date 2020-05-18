@@ -12,4 +12,5 @@ GUI Features:<br/>
 1. Mesh can be created and viewed inside the same GUI<br/>
 2. Click the default button to run a sample case<br/>
 3. Can save your solver settings to a text file and reload again later<br/>
-4. Post processing can be done in same GUI
+4. Post processing can be done in same GUI<br/>
+![CGflow GUI look](https://photos.app.goo.gl/inDEDkPKe818pB8T6)
