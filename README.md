@@ -13,4 +13,4 @@ GUI Features:<br/>
 2. Click the default button to run a sample case<br/>
 3. Can save your solver settings to a text file and reload again later<br/>
 4. Post processing can be done in same GUI<br/>
-![CGflow GUI look](https://github.com/ganeshkumar89/CGflow/blob/master/cgfloo.PNG)
+![CGflow GUI look](https://github.com/ganeshkumar89/CGflow/blob/master/CGflow.PNG)
